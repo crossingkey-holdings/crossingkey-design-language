@@ -4,10 +4,18 @@ The public design system and brand governance reference for CrossingKey.
 
 ## Foundation
 
-- **Void Black** — primary ground and visual depth
-- **Cold Silver** — information, contrast, and structural clarity
-- **Atomic Hot Pink** — focused emphasis, action, and signal
+| Name | Role |
+| --- | --- |
+| Void Black | Primary ground and visual depth |
+| Cold Silver | Information, contrast, and structural clarity |
+| Atomic Hot Pink | Focused emphasis, action, and signal |
 
-## Purpose
+Atomic Hot Pink is a scarce accent, not a default fill. Interfaces must remain understandable without color alone.
 
-This repository documents visual identity, interface principles, accessible contrast, language standards, and durable implementation guidance. It is intended to make future work recognizably CrossingKey without locking the company into fragile trends.
+## Standards
+
+1. Establish hierarchy with spacing, type, and contrast before decoration.
+2. Keep motion purposeful and respect reduced-motion preferences.
+3. Make interactive state obvious without hover alone.
+4. Use plain language for scope, price, delivery, and support boundaries.
+5. Provide keyboard access, meaningful labels, and readable contrast.
